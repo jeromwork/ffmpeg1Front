@@ -20,6 +20,7 @@
     "@capacitor/status-bar": "4.0.1",
     "@ionic/core": "^6.3.2",
     "@ionic/vue": "^6.3.2",
+    "vue-router": "^4.0.13",
     "vuex": "^4.0.2"
   }
 }
